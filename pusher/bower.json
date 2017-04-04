@@ -1,0 +1,9 @@
+{
+  "name": "pusher",
+  "authors": [
+    "Timothy Fisher"
+  ],
+  "dependencies": {
+    "materialize": "^0.98.1"
+  }
+}

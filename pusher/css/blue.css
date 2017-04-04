@@ -1,0 +1,22 @@
+header#masthead {
+	background: #2196f3;
+	color: #fff;
+}
+
+header#masthead a {
+	color: #fff;
+}
+
+.nav {
+	color: #fff;
+	background-color: #64b5f6;
+	width: 100%;
+	height: 56px;
+	line-height: 56px;
+	overflow: hidden;
+}
+
+nav ul li:hover,
+nav ul li.active {
+	background-color: #1976d2;
+}
